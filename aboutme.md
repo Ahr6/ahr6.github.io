@@ -1,16 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: My short pitch
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Aleksander Ramirez. I went the majority of my life without learning two fundamental skills, sewing and coding. This is problematic because I have many friends who can either sew or code, and my inability forced me to miss out on many fun opportunities to sew or code with them. However, now that I am taking e-textiles, I will finally be able to join my friends when they go to sewing or coding events. This will result in me having a more enjoyable college experience. It will furthermore allow me to engage in coding and sewing projects in my own time that will certainly also be enjoyable. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
