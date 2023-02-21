@@ -12,6 +12,9 @@ One tip that I learned is that it can be helpful to watch multiple videos or scr
 
 
 
+/assets/img/front.JPG
+
+/assets/img/back.JPG
 
 
 
