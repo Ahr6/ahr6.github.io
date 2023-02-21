@@ -12,9 +12,9 @@ One tip that I learned is that it can be helpful to watch multiple videos or scr
 
 
 
-![Front](/assets/img/front.png "Front")
+![Front](/assets/img/front.JPG "Front")
 
-![Back](/assets/img/back.png "Back")
+![Back](/assets/img/back.JPG "Back")
 
 
 
