@@ -12,8 +12,9 @@ One tip that I learned is that it can be helpful to watch multiple videos or scr
 
 
 
-https://github.com/Ahr6/ahr6.github.io/blob/master/assets/img/back.JPG
-https://github.com/Ahr6/ahr6.github.io/blob/master/assets/img/front.JPG
+'https://github.com/Ahr6/ahr6.github.io/blob/master/assets/img/back.JPG'
+
+'https://github.com/Ahr6/ahr6.github.io/blob/master/assets/img/front.JPG'
 
 
 
