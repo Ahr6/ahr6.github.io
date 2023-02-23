@@ -2,7 +2,6 @@
 layout: post
 title: Sweater Website Post 
 subtitle: Coding the weather away
-cover-img: /assets/img/Output.jpg
 thumbnail-img: /assets/img/Output.jpg
 share-img: /assets/img/Output.jpg
 tags: [Coding, hw]
