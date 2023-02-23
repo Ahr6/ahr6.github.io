@@ -1,20 +1,19 @@
 ---
 layout: post
-title: Sewing Sampler
-subtitle: yay sewing
-cover-img: /assets/img/front.JPG
-thumbnail-img: /assets/img/front.JPG
-share-img: /assets/img/back.JPG
-tags: [sewing, hw]
+title: Sweater Website Post 
+subtitle: Coding the weather away
+cover-img: /assets/img/Output.JPG
+thumbnail-img: /assets/img/Output.JPG
+share-img: /assets/img/Output.JPG
+tags: [Coding, hw]
 ---
-One tip that I learned is that it can be helpful to watch multiple videos or scroll through articles multiple times before actually sewing to guarantee that you understand the motions before trying it. It helped me a lot when I could fully conceptualize the sewing technique before sewing instead of just jumping in and trying to figure it out.
+One tip that I would give my past self while completing this assignment is to debug smaller lines of code instead of trying to run it all at once because it was a little overwhelming to see all the little mistakes that I made. 
 
 
 
+![Output](/assets/img/Output.JPG "Output")
 
-![Front](/assets/img/front.JPG "Front")
 
-![Back](/assets/img/back.JPG "Back")
 
 
 
