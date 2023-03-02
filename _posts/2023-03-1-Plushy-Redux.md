@@ -2,9 +2,9 @@
 layout: post
 title: Aleks' Plushy Redux Assignment
 subtitle: For HW 
-cover-img: /assets/img/plushy.jpg
-thumbnail-img: /assets/img/plushy.jpg
-share-img: /assets/img/plushy.jpg
+cover-img: /assets/img/plushy.JPG
+thumbnail-img: /assets/img/plushy.JPG
+share-img: /assets/img/plushy.JPG
 tags: [HW, Coding]
 ---
 
@@ -13,4 +13,4 @@ For this assignment I had to write a program that gives a read out of the status
 
 One tip I would give myself is to start this assignment earlier because it was stressful to do at the last minute. 
 
-![Plushy](/assets/img/plushy.jpg "plushy")
+![Plushy](/assets/img/plushy.JPG "plushy")
