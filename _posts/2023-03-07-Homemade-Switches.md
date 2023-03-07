@@ -20,4 +20,4 @@ One tip that I learned was to really think through the paper prototype because i
 
 ![Paper](/assets/img/paper-switch.JPG "Paper")
 
-![Alligator](/assets/img/alligator-switch.JPG "Alligator")
+![Alligator](/assets/img/aligator-switch.JPG "Alligator")
