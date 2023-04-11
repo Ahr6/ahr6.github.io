@@ -12,4 +12,4 @@ For this project I had to code a program that changes the color outputted to LED
 One tip would be to get the necessary components before I leave for class because I had to come in during office hours because I was missing the LED. 
 
 
-![Sparklies](/assets/img/purple.jpg "Purple")
+![Purple](/assets/img/purple.jpg "Purple")
