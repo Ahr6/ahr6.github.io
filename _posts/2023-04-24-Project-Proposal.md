@@ -2,10 +2,10 @@
 layout: post
 title: Aleks' Project Proposal
 subtitle: For HW 
-cover-img: /assets/img/Alekspack.jpg
-thumbnail-img: /assets/img/Alekspack.jpg
-share-img: /assets/img/Alekspack.jpg
+cover-img: /assets/img/Alekspack.jpeg
+thumbnail-img: /assets/img/Alekspack.jpeg
+share-img: /assets/img/Alekspack.jpeg
 tags: [HW, Coding]
 ---
 
-![Alekspack](/assets/img/Alekspack.jpg "Alekspack")
+![Alekspack](/assets/img/Alekspack.jpeg "Alekspack")
